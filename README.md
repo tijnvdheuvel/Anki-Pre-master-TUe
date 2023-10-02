@@ -14,23 +14,23 @@ Contributing guideline:
 - Add cards to the relevant sub-decks. We can add extra sub-decks if needed just send something on discord.
 
 Tag list:
-=============
-- FAA
- Algorithm
- 
-- Calculus
-  Formula
-  Vectors
-  Trig
-  Derivatives
-  Recipe
 
-- Logic
-  Derivation
-  Identity
-  Property
-  Sets
-=============  
+* FAA
+- Algorithm
+ 
+* Calculus
+- Formula
+- Vectors
+- Trig
+- Derivatives
+- Recipe
+
+* Logic
+- Derivation
+- Identity
+- Property
+- Sets
+
 
 
 
